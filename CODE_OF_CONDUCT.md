@@ -18,6 +18,6 @@ Harassment includes offensive verbal comments related to gender, sexual orientat
 
 ***Participants asked to stop any harassing behavior are expected to comply immediately.***
 
-Members of the community who violate these rules - no matter how much they have contributed to the project, or how specialised their skill set - will be approached by a member of the leadership team. If inappropriate behaviour persists after a discussion with the leadership team member the contributer will be asked to discontinue their participation in the development of the app.
+Members of the community who violate these rules - no matter how much they have contributed to the project, or how specialised their skill set - will be contacted privately by a team leader. If inappropriate behaviour persists after a discussion the contributer will be asked to discontinue their participation in the development of the app.
 
 **To report an issue** please contact Kirstie using the contact details in the [guidelines for contributors](https://github.com/KirstieJane/ReproducibleResearch/blob/master/CONTRIBUTING.md) file. All communication will be treated as confidential.
