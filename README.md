@@ -1,6 +1,10 @@
-# ReproducibleResearch
+<img 
+  src="https://raw.githubusercontent.com/KirstieJane/ReproducibleResearch/master/IMAGES/Logo.png" 
+  align="right"
+  width=300
+</img>
 
-![https://raw.githubusercontent.com/KirstieJane/ReproducibleResearch/master/IMAGES/Logo.png]
+# ReproducibleResearch
 
 This repository supports [Kirstie's](https://github.com/KirstieJane/) presentation on tips and tricks for making your research reproducible.
 
