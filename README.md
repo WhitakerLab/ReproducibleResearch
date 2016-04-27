@@ -14,6 +14,8 @@ The goal is to build a directory of useful links, and a jargon busting glossary.
 
 See our [guidelines](https://github.com/KirstieJane/ReproducibleResearch/blob/master/CONTRIBUTING.md) for how to contribute to the project.
 
+A good place to start is to build the [Jargon Buster](https://github.com/KirstieJane/ReproducibleResearch/blob/master/Glossary.md) glossary. Pick a word you remember learning (preferably related to Reproducible Research but not necessarily), define it and submit a pull request so everyone else can learn with you!
+
 ## Code of conduct
 
 Everyone is welcome to join this project, particularly people who have not used GitHub before and are feeling unsure of how to begin!
