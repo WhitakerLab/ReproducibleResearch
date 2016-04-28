@@ -6,7 +6,7 @@ Please be brief in your description, but do link to further information as appro
 
 Help editing markdown can be found at this excellent [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-* markdown
+* markdown: text file with little bit of formatting (e.g. bold, headings, italics)
 * reproducible
 * branch
 * fork
