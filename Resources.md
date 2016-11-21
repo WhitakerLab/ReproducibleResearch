@@ -4,9 +4,11 @@ If you know of a useful resource that has helped you make your research reproduc
 
 Help editing markdown can be found at this excellent [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-### Learning Git & GitHub
+### Git & GitHub
 
 * [Friendly GitHub Introdution](https://kirstiejane.github.io/friendly-github-intro/): an afternoon workshop created originally by [Joey Lee](https://github.com/joeyklee) for the [Mozilla Science Lab](https://www.mozillascience.org/) and further developed by [Kirstie Whitaker](https://github.com/KirstieJane) and [Anne Pajon](https://github.com/pajanne).
+
+* [Get private GitHub repositories](https://education.github.com/): a [paid GitHub account](https://help.github.com/articles/what-plan-should-i-choose/) allows you to have private repositories that only people you choose to make collaborators can see. If you're a member of an academic institution you can [request a discount](https://education.github.com/) (to $0) and therefore have free private repositories. The discount lasts for 2 years but you can request another at the end of that period no problem :raised_hands:.
 
 * ...
 * ...
