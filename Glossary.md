@@ -7,7 +7,7 @@ Please be brief in your description, but do link to further information as appro
 Help editing markdown can be found at this excellent [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 * markdown: text file with little bit of formatting (e.g. bold, headings, italics)
-* reproducible
+* reproducible: being able to get the same results from the same data and code; as opposite to replicable (comparable results from different data)
 * branch
 * fork
 * git
