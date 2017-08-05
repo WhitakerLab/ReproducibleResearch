@@ -1,8 +1,7 @@
 <img 
   src="https://raw.githubusercontent.com/KirstieJane/ReproducibleResearch/master/IMAGES/Logo.png" 
   align="right"
-  width=300
-</img>
+  width=300>
 
 # ReproducibleResearch
 
