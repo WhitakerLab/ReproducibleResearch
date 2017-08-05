@@ -3,11 +3,19 @@
   align="right"
   width=300>
 
-# ReproducibleResearch
+# Reproducible Research
 
 This repository supports [Kirstie's](https://github.com/KirstieJane/) presentation on tips and tricks for making your research reproducible.
 
 The goal is to build a directory of useful links, and a jargon busting glossary.
+
+## Table of contents
+
+Click on the links below to go straight to the following resources:
+
+* [Presentations](https://github.com/KirstieJane/ReproducibleResearch/blob/master/PRESENTATIONS)
+* [Jargon Buster Glossary](https://github.com/KirstieJane/ReproducibleResearch/blob/master/Glossary.md)
+* [Resources](https://github.com/KirstieJane/ReproducibleResearch/blob/master/Resources.md)
 
 ## Guide for contributors
 
