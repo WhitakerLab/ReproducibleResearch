@@ -9,6 +9,6 @@ Help editing markdown can be found at this excellent [markdown cheatsheet](https
 * markdown: text file with little bit of formatting (e.g. bold, headings, italics)
 * reproducible: being able to get the same results from the same data and code; as opposite to replicable (comparable results from different data)
 * branch
-* fork
+* fork: a copy of a repository. You can fork a repository to make changes without affecting the original project. It can be used as a starting point for a new work, or to propose changes (submitting a pull request). https://help.github.com/articles/fork-a-repo/
 * git
 * ...
