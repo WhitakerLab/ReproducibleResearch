@@ -8,6 +8,7 @@ Help editing markdown can be found at this excellent [markdown cheatsheet](https
 
 * markdown: text file with little bit of formatting (e.g. bold, headings, italics)
 * reproducible: being able to get the same results from the same data and code; as opposite to replicable (comparable results from different data)
+* clone: a copy of a Github repository on your local machine (e.g. `/User/Username/Repos/ReproducibleResearch`).  
 * branch
 * fork
 * git
