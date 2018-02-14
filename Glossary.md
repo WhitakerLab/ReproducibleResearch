@@ -10,6 +10,6 @@ Help editing markdown can be found at this excellent [markdown cheatsheet](https
 * reproducible: being able to get the same results from the same data and code; as opposite to replicable (comparable results from different data)
 * clone: a copy of a Github repository on your local machine (e.g. `/User/Username/Repos/ReproducibleResearch`).  
 * branch
-* fork
+* fork: a personal copy of someone else’s project (more information [here](https://guides.github.com/activities/forking/))
 * git
 * ...
